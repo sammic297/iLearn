@@ -5,8 +5,10 @@
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>iLearn | Payment</title>
-		<meta name="keywords" content="iLearn, afrigold.com, nollywood, hollywood, nigerian movies, online movies, movies, movies download, movies subscription, lagos movies, alaba movies">
-		<meta name="description" content="Signup | We have all the best and trending Nollywood movies. Signup below to get all experience">
+		<meta name="keywords" content="eBooks, iLearn, pdfs, books, book-download">
+    
+		<meta name="description" content="Welcome to iLearn. Signup below to get all experience">
+
 		
 		<?php require_once('inc_title.php'); ?>
 		
